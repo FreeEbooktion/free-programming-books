@@ -1172,6 +1172,12 @@
 * [Redux Tutorial- Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4) - Mosh Hamedani
 
 
+#### Salesforce
+
+* [Apex TrailMix](https://trailhead.salesforce.com/users/rolson5/trailmixes/apex-trail-mix) - Rick Olson
+* [Get Started with Lightning Web Components](https://trailhead.salesforce.com/users/strailhead/trailmixes/lightning-web-components) - Salesforce Trailhead
+
+
 #### Svelte
 
 * [Beginner SvelteKit](https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4) - Steph Dietz
